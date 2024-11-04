@@ -37,8 +37,8 @@ A Python script that helps you identify unused references in your LaTeX document
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/bibtex-reference-checker.git
-cd bibtex-reference-checker
+git clone https://github.com/iranmanesh/BibCleaner.git
+cd BibCleaner
 ```
 
 2. Make the script executable (Unix-like systems):
