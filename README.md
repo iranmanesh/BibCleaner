@@ -89,5 +89,3 @@ The script handles several common errors:
 - Currently does not process nested LaTeX files (\input or \include)
 - Does not validate BibTeX syntax
 - Cannot process cite commands with complex optional arguments
-
-[Rest of the README remains the same as before...]
